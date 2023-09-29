@@ -1,0 +1,36 @@
+{
+  "name": "@yelounak/pageable-parse-classes",
+  "version": "0.1.1",
+  "type": "module",
+  "description": "Collection of custom parse classes.",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yelounak/pageable-parse-classes"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/yelounak"
+  },
+  "keywords": [
+    "parse",
+    "server"
+  ],
+  "peerDependencies": {
+    "parse": "*",
+    "underscore": ">= 1.0.0",
+    "moment": ">= 2.0.0"
+  },
+  "dependencies": {},
+  "author": "Aboubacar Doucoure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yelounak/pageable-parse-classes/issues"
+  },
+  "homepage": "https://github.com/yelounak/pageable-parse-classes#readme"
+}
