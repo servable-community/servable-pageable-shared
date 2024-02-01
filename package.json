@@ -68,7 +68,7 @@
     }
   ],
   "peerDependencies": {
-    "servable-engine": "*",
+    "@servable/server": "*",
     "underscore": ">= 1.0.0",
     "moment": ">= 2.0.0"
   },
